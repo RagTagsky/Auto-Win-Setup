@@ -116,3 +116,4 @@ The script automatically handles input with space or comma separation
 Choosing 10 installs all supported applications
 
 Choosing 0 exits the script
+# Auto-Win-Setup
